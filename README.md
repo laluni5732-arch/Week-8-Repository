@@ -6,6 +6,6 @@ HR Notes:
 - Nick K. - Developer
 - Rue E. - Designer
 - Chris G. - General Assistant/Tester 
-- Andy J 
+- Andy J. - Tester 
 https://github.com/Ohio-Rizz/upgraded-octo-system
 
