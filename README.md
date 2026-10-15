@@ -1,5 +1,6 @@
 # Week-8-Repository
 HR Notes:
+- 
 
 - Leah A - HR/Team Lead
 - George A- General Assistant/Tester
